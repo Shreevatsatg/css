@@ -1,13 +1,28 @@
 h1{                     
-    color:rgb(18, 190, 18);
+    
 } 
 p{
-    color:brown;
+    
 }
 button{
-    color:rgb(239, 244, 238);
-    background-color:green;
+    boarder: 2px solid black;
+    color: white;
+    background-color: rgb(70, 115, 227);
+   border-width: 1px;
+   border-color: rgb(70, 115, 227);
+   border-radius: 6px;
 }
 body{
-    background-color:rgb(241, 204, 137);
+   
+}
+div{
+    background-color: rgb(88, 186, 228);
+    width: 100px;
+    text-align: right;
+    padding: 0px;
+}
+h2{
+    background-color: aqua;
+    color: white;
+    padding: 40px;
 }
