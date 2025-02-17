@@ -1,0 +1,54 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+#navbar{
+    display: flex;
+    justify-content: center; /* Centers horizontally */
+    align-items: center; /* Centers vertically */
+    height: 60px;
+    background-color: #0f1111;
+}
+#logo{
+    
+    text-size-adjust: 25px;
+    color: rgb(249, 124, 8);
+}
+#account{
+    margin-left: 200px;
+    color: white;
+    
+}
+#mycart{
+    margin-left: 200px;
+    color: white;
+}
+#contacus{
+    margin-left: 200px;
+    color: white;
+}
+#input{
+    margin-left: 100px;
+    color: white;
+}
+#btnsearch{
+    background-color:rgb(249, 124, 8) ;
+}
+a{
+    text-decoration: none;
+    
+}
+.contant{
+    height:211px;
+    border: 2px solid black;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+}
+#footer{
+    background-color: #0f1111;
+    color: white;
+    text-align: center;
+}
+#contant{
+    height: 625px;;
